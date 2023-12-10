@@ -1,0 +1,10 @@
+{
+  "name": "fastify",
+  "description": "Simple web server example using Fastify",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "fastify": "^4.24.3"
+  }
+}
