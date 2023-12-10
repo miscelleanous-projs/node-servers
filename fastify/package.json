@@ -1,5 +1,5 @@
 {
-  "name": "fastify",
+  "name": "fastify-ex",
   "description": "Simple web server example using Fastify",
   "scripts": {
     "start": "node server.mjs"
